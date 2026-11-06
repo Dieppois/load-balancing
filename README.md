@@ -1,4 +1,4 @@
-# TP5 Traefik : Reverse Proxy et Load Balancing
+# Traefik : Reverse Proxy et Load Balancing
 
 Déroulé et réponses du TP : [load-balancing-tp.md](load-balancing-tp.md)
 
